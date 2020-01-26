@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/seollal-trick-kit.svg)
 
 # seollal-trick-kit
-The trick-kit for Korean New Year, seollal
+The trick-kit for Korean New Year, seollal.
 
 ## How to Use
 Open terminal in macOS computer and type this command.
