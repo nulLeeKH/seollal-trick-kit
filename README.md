@@ -8,4 +8,6 @@ The trick-kit for Korean New Year, seollal.
 ## How to Use
 Open terminal in macOS computer and type this command.
 
-```git clone https://github.com/nulLeeKH/seollal-trick-kit;cd seollal-trick-kit;chmod 744 seollal_trick_kit.sh;./seollal_trick_kit.sh```
+```
+git clone https://github.com/nulLeeKH/seollal-trick-kit;cd seollal-trick-kit;chmod 744 seollal_trick_kit.sh;./seollal_trick_kit.sh
+```
